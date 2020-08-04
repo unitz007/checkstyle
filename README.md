@@ -7,7 +7,7 @@ It automates the process of checking Java code to spare humans of this boring (b
  This makes it ideal for projects that want to enforce a coding standard. 
 
 ## Installation
-Checkstyle is used by placing checkstyle.xml file on the top directory of your java project.
+Checkstyle is used by placing checkstyle.xml file on the top-level directory of your java project.
 
 ## Usage
 Maven -> https://maven.apache.org/plugins/maven-checkstyle-plugin/usage.html <br/>
